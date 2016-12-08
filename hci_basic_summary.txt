@@ -1,0 +1,337 @@
+Summary of HCI stats
+2016-10-07 15:42:32: 3  
+2016-10-07 15:42:33: 2  
+2016-10-06 08:42:32: 1  
+2016-10-07 12:14:48: 1  
+2016-10-07 12:27:45: 1  
+2016-10-07 12:29:57: 1  
+(Other)            :71  
+2016-10-07 15:42:33: 3  
+2016-10-07 15:42:32: 2  
+2016-10-06 08:43:28: 1  
+2016-10-07 12:17:26: 1  
+2016-10-07 12:29:06: 1  
+2016-10-07 12:30:40: 1  
+(Other)            :71  
+IP Address    :70  
+Survey Preview: 5  
+Survey Test   : 5  
+NA
+NA
+NA
+NA
+132.162.73.145: 3  
+132.162.83.152: 2  
+132.162.98.15 : 2  
+172.58.200.232: 2  
+208.66.211.165: 2  
+(Other)       :59  
+NA's          :10  
+Min.   :  2.00  
+1st Qu.: 88.50  
+Median :100.00  
+Mean   : 91.19  
+3rd Qu.:100.00  
+Max.   :100.00  
+NA
+Min.   :    0.00  
+1st Qu.:   86.25  
+Median :  320.00  
+Mean   : 3708.15  
+3rd Qu.:  502.50  
+Max.   :82869.00  
+NA
+False:24  
+True :56  
+NA
+NA
+NA
+NA
+NA
+2016-10-07 15:42:33: 3  
+2016-10-07 15:42:34: 2  
+2016-10-06 08:43:29: 1  
+2016-10-07 12:17:27: 1  
+2016-10-07 12:29:07: 1  
+2016-10-07 12:30:41: 1  
+(Other)            :71  
+R_00Q5dK9MmxCxGsF: 1  
+R_10YEQILfcbh2Dfe: 1  
+R_1d68iHBN2oWfglM: 1  
+R_1ddmtK1MeUiyyLj: 1  
+R_1DqJJKsrUMYa1vv: 1  
+R_1FKPTWJfv0zlE50: 1  
+(Other)          :74  
+Mode:logical  
+NA's:80       
+NA
+NA
+NA
+NA
+NA
+Mode:logical  
+NA's:80       
+NA
+NA
+NA
+NA
+NA
+Mode:logical  
+NA's:80       
+NA
+NA
+NA
+NA
+NA
+Mode:logical  
+NA's:80       
+NA
+NA
+NA
+NA
+NA
+Min.   :37.34  
+1st Qu.:41.29  
+Median :41.29  
+Mean   :41.34  
+3rd Qu.:41.29  
+Max.   :51.50  
+NA's   :24  
+Min.   :-122.0307  
+1st Qu.: -82.2277  
+Median : -82.2277  
+Mean   : -82.3234  
+3rd Qu.: -82.2277  
+Max.   :  -0.1224  
+NA's   :24  
+anonymous:70  
+preview  : 5  
+test     : 5  
+NA
+NA
+NA
+NA
+I have read the above form and accept.:79  
+NA's                                  : 1  
+NA
+NA
+NA
+NA
+NA
+I do not have a STEM major.         :33  
+Yes, I have at least one STEM major.:42  
+NA's                                : 5  
+NA
+NA
+NA
+NA
+Female    :25  
+Male      :23  
+Non-binary:22  
+NA's      :10  
+NA
+NA
+NA
+Mode:logical  
+NA's:80       
+NA
+NA
+NA
+NA
+NA
+White                                                             :48  
+Other                                                             : 4  
+Asian / Pacific Islander                                          : 3  
+Hispanic or Latino                                                : 3  
+Black or African American,Native American or American Indian,Other: 2  
+(Other)                                                           :10  
+NA's                                                              :10  
+1st         : 1  
+2nd         : 6  
+3rd         :22  
+4th         :32  
+5th or above: 7  
+NA's        :12  
+NA
+Both (Double Degree): 4  
+Oberlin College     :62  
+Oberlin Conservatory: 1  
+NA's                :13  
+NA
+NA
+NA
+3 and 9 : 9  
+7 and 12: 2  
+NA's    :69  
+NA
+NA
+NA
+NA
+1/16:12  
+NA's:68  
+NA
+NA
+NA
+NA
+NA
+0 and 14 : 6  
+10 and 21: 1  
+3 and 7  : 1  
+7 and 19 : 2  
+NA's     :70  
+NA
+NA
+1/2 : 1  
+1/32: 8  
+1/5 : 2  
+3/5 : 6  
+NA's:63  
+NA
+NA
+0 and 15 : 2  
+15 and 20: 3  
+30 and 50:12  
+NA's     :63  
+NA
+NA
+NA
+Min.   : 4.000  
+1st Qu.: 5.000  
+Median : 5.000  
+Mean   : 9.818  
+3rd Qu.: 5.000  
+Max.   :32.000  
+NA's   :69  
+7 and 14:15  
+NA's    :65  
+NA
+NA
+NA
+NA
+NA
+1/16: 1  
+1/8 :14  
+NA's:65  
+NA
+NA
+NA
+NA
+10 and 24:13  
+15 and 25: 2  
+9 and 11 : 1  
+NA's     :64  
+NA
+NA
+NA
+1/16:14  
+1/32: 1  
+3/5 : 1  
+NA's:64  
+NA
+NA
+NA
+1 and 8 :14  
+4 and 10: 1  
+NA's    :65  
+NA
+NA
+NA
+NA
+Min.   :4  
+1st Qu.:4  
+Median :4  
+Mean   :4  
+3rd Qu.:4  
+Max.   :4  
+NA's   :64  
+12 and 24:15  
+NA's     :65  
+NA
+NA
+NA
+NA
+NA
+1/32:14  
+NA's:66  
+NA
+NA
+NA
+NA
+NA
+4 and 12:13  
+5 and 10: 1  
+6 and 13: 1  
+NA's    :65  
+NA
+NA
+NA
+1/16: 3  
+1/32: 2  
+1/64:10  
+NA's:65  
+NA
+NA
+NA
+6 and 13:14  
+NA's    :66  
+NA
+NA
+NA
+NA
+NA
+Min.   :3  
+1st Qu.:3  
+Median :3  
+Mean   :3  
+3rd Qu.:3  
+Max.   :3  
+NA's   :66  
+6 and 13: 9  
+NA's    :71  
+NA
+NA
+NA
+NA
+NA
+1/16: 1  
+1/32:12  
+1/8 : 1  
+NA's:66  
+NA
+NA
+NA
+8 and 16: 1  
+9 and 18: 7  
+NA's    :72  
+NA
+NA
+NA
+NA
+1/16: 3  
+1/8 : 6  
+NA's:71  
+NA
+NA
+NA
+NA
+24 and 30: 1  
+26 and 33: 9  
+NA's     :70  
+NA
+NA
+NA
+NA
+Min.   :4.000  
+1st Qu.:6.000  
+Median :6.000  
+Mean   :6.154  
+3rd Qu.:6.000  
+Max.   :8.000  
+NA's   :67  
+Min.   :    0.00  
+1st Qu.:   86.25  
+Median :  320.00  
+Mean   : 3708.15  
+3rd Qu.:  502.50  
+Max.   :82869.00  
+NA
