@@ -1,0 +1,20 @@
+\documentclass{article}
+
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+
+%-------------------------------------------
+\section{Including a Plot}
+%--------------------------------------------
+Now for a plot.  Note we include fig=TRUE, which prints the plot within the document
+
+
+<<figure_one, fig=TRUE, echo=false>>=
+source('clean.R', local = TRUE)
+
+ggplot(data=fin_df, aes(x=finished, y=count, fill=count)) +
+   geom_bar(stat="identity")
+@
+
+
+\end{document}
